@@ -25,23 +25,23 @@
 1. Punch back the dough and form into two loaves
 1. Line a sheet pan with parchment paper and dust with corn meal or flour;\
     put the loaves on the sheet and let proof another 45 minutes
-    1. **CAUTION**: The parchment must be able to withstand the baking temperature (see below).\
+    * **CAUTION**: The parchment must be able to withstand the baking temperature (see below).\
         If you don't have parchment that can withstand that temp, use a bare sheet pan instead\
         and dust generously with corn meal or flour. If you're lucky enough to have a Silpat,\
         it works just as well for this as for everything else.
         * If you're curious, when you bake parchment paper above its rated temperature it will\
             char and impart some acrid burnt flavors to whatever you're baking. No bueno.
 1. Toward the end of the proof, preheat oven to 450 F / 230 C with a heavy, oven-safe pan on the lowest rack.
-    1. *Note*: A cast iron skillet or a roasting pan would work well here.
-    1. *Alternatively*, if you have a dutch oven you may forego the sheet pan and the extra pan\
+    * *Note*: A cast iron skillet or a roasting pan would work well here.
+    * *Alternatively*, if you have a dutch oven you may forego the sheet pan and the extra pan\
         and bake the bread in the dutch oven instead. The dutch oven gets the same flour/corn meal\
         treatment describe above.
 1. When this second proof is done, dust each loaf lightly with flour and score
-    1. 2-3 diagonal scores is a good place to start; feel free to experiment and use your imagination
+    * 2-3 diagonal scores is a good place to start; feel free to experiment and use your imagination
 1. Bake 20-30 minutes; the bread is fully baked when it makes a hollow sound when you tap on the bottom of the loaf
 1. Turn off the oven, crack the oven door open and leave the bread inside for 5 minutes\
     (*this supposedly helps keep the crust crisp; I haven't done any testing here though*)
 1. Remove the bread to a wire rack to cool completely before slicing.
-    1. *Or at least as cool as possible... warm bread is the good shit*
+    * *Or at least as cool as possible... warm bread is the good shit*
 1. Store the bread well-wrapped for a few days or freeze for long-term storage.
 
