@@ -2,7 +2,7 @@
 
 ## Meta
 * Yield: 1 loaf
-* Total time w/ rise:
+* Total time w/ rise: ~2 hours
 
 ## Ingredients
 * 500g bread flour
