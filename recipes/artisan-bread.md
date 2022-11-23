@@ -14,8 +14,7 @@
 
 ## Method
 1. *Optional*: Bloom dry yeast to verify that it is active
-1. Combine flour, yeast, salt, and water in a large mixing bowl
-1. Mix until a shaggy dough forms
+1. Combine flour, yeast, salt, and water in a large mixing bowl. Mix until a shaggy dough forms
 1. Turn dough out onto a floured work surface; knead until smooth and gluten is developed (~7-8 minutes)
     * *Note*: We're looking for a supple dough that springs back when an impression is made with a finger
     * The "window pane" test also works well for small batches like this
@@ -31,13 +30,16 @@
         it works just as well for this as for everything else.
         * *If you're curious, when you bake parchment paper above its rated temperature it will*\
             *char and impart some acrid burnt flavors to whatever you're baking. No bueno.*
-1. Toward the end of the proof, preheat oven to 450 F / 230 C with a heavy, oven-safe pan on the lowest rack.
+1. Toward the end of the proof, preheat oven to 450 F / 230 C with a heavy, oven-safe pan on the lowest rack.\
+    Boil some water.
     * *Note*: A cast iron skillet or a roasting pan would work well here.
     * *Alternatively*, if you have a dutch oven you may forego the sheet pan and the extra pan\
         and bake the bread in the dutch oven instead. The dutch oven gets the same flour/corn meal\
         treatment describe above.
 1. When this second proof is done, dust each loaf lightly with flour and score
     * 2-3 diagonal scores is a good place to start; feel free to experiment and use your imagination
+1. Wearing oven mitts for protection against steam, put the bread in the oven, then add boiling water to the\
+    pan on the lower rack. Close the oven door quickly to trap the steam inside.
 1. Bake 20-30 minutes; the bread is fully baked when it makes a hollow sound when you tap on the bottom of the loaf
 1. Turn off the oven, crack the oven door open and leave the bread inside for 5 minutes\
     (*this supposedly helps keep the crust crisp; I haven't done any testing here though*)
