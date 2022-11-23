@@ -29,8 +29,8 @@
         If you don't have parchment that can withstand that temp, use a bare sheet pan instead\
         and dust generously with corn meal or flour. If you're lucky enough to have a Silpat,\
         it works just as well for this as for everything else.
-        * If you're curious, when you bake parchment paper above its rated temperature it will\
-            char and impart some acrid burnt flavors to whatever you're baking. No bueno.
+        * *If you're curious, when you bake parchment paper above its rated temperature it will*\
+            *char and impart some acrid burnt flavors to whatever you're baking. No bueno.*
 1. Toward the end of the proof, preheat oven to 450 F / 230 C with a heavy, oven-safe pan on the lowest rack.
     * *Note*: A cast iron skillet or a roasting pan would work well here.
     * *Alternatively*, if you have a dutch oven you may forego the sheet pan and the extra pan\
